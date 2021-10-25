@@ -1,0 +1,14 @@
+.img {
+  display: block;
+  margin: 60px auto;
+  width: 83px;
+}
+
+.Weather li {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul {
+  padding-left: 0px;
+}
