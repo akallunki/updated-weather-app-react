@@ -5,11 +5,17 @@ export default function Footer() {
     <div>
       <footer>
         This page was built by{" "}
-        <a href="#" target="_blank">
+        <a
+          href="https://www.linkedin.com/in/aleksiinakallunki/"
+          target="_blank"
+        >
           Aleks
         </a>{" "}
         and is{" "}
-        <a href="#" target="_blank">
+        <a
+          href="https://github.com/akallunki/updated-weather-app-react"
+          target="_blank"
+        >
           open-sourced
         </a>
       </footer>
