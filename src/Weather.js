@@ -43,7 +43,7 @@ export default function Weather(props) {
             <input
               type="search"
               placeholder="Search if you dare..."
-              autofocus="on"
+              autoFocus="on"
               onChange={handleCityChange}
             />
             <input type="submit" value="Search" />
