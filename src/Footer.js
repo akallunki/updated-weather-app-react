@@ -8,6 +8,7 @@ export default function Footer() {
         <a
           href="https://www.linkedin.com/in/aleksiinakallunki/"
           target="_blank"
+          rel="noreferrer"
         >
           Aleks
         </a>{" "}
@@ -15,6 +16,7 @@ export default function Footer() {
         <a
           href="https://github.com/akallunki/updated-weather-app-react"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced
         </a>
