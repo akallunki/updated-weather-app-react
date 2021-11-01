@@ -1,23 +1,20 @@
 .weather-icon-big {
-  display: block;
-  margin: 60px auto;
-  width: 83px;
+  float: center;
 }
 
 li {
   list-style-type: none;
   margin: 0;
   font-size: 12px;
-  padding: 0;
 }
 
 ul {
   list-style-type: none;
-  padding: 0;
+  text-align: right;
 }
-
 .city {
-  margin: 15px 0;
+  text-align: center;
+  padding: 10px 0;
 }
 
 .Weather {
@@ -27,10 +24,13 @@ ul {
 .last-update {
   font-size: 12px;
   margin: 5px 0;
+  text-align: right;
 }
 
 .temperature h5 {
   font-weight: 100;
+  text-align: right;
+  font-size: 18px;
 }
 
 .temperature .unit button {
