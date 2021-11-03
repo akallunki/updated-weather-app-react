@@ -1,0 +1,21 @@
+.weather-forecast-text {
+  font-size: 13px;
+  text-align: center;
+}
+.weather-digits {
+  padding-bottom: 7px;
+}
+.icon {
+  display: block;
+  text-align: center;
+}
+
+.forecast-row {
+  padding-top: 20px;
+}
+.weather-min {
+  color: #737374;
+}
+.weather-weekday {
+  font-weight: 700;
+}
