@@ -9,9 +9,15 @@
 .App footer {
   color: #9d9ea0;
   text-align: center;
-  font-size: 12px;
+  font-size: 11px;
 }
-
+.App footer a {
+  text-decoration: none;
+  color: #ffc0cb;
+}
+.App footer a:hover {
+  font-weight: 900;
+}
 .App {
   font-family: monospace;
 }

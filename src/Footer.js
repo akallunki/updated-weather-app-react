@@ -12,13 +12,13 @@ export default function Footer() {
         >
           Aleks
         </a>{" "}
-        and is{" "}
+        and is open-sourced on{" "}
         <a
           href="https://github.com/akallunki/updated-weather-app-react"
           target="_blank"
           rel="noreferrer"
         >
-          open-sourced
+          GitHub
         </a>
       </footer>
     </div>

@@ -44,7 +44,7 @@ export default function Weather(props) {
           <form onSubmit={handleSubmit}>
             <input
               type="search"
-              placeholder="Search if you dare..."
+              placeholder="Type a city..."
               autoFocus="on"
               onChange={handleCityChange}
               className="form-input"
