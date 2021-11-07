@@ -3,11 +3,17 @@
   text-align: center;
 }
 .form-input {
-  border: 1px solid #dadce0;
+  border: 2px solid #dadce0;
   border-radius: 4px;
+  margin-right: 6px;
+  background: white;
 }
 .form-submit {
   background: white;
-  border: 1px solid #dadce0;
+  border: 2px solid #dadce0;
   border-radius: 4px;
+}
+.form-submit:hover,
+.form-input:hover {
+  box-shadow: 3px 2px 2px #fdeff2;
 }

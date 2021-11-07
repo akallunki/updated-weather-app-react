@@ -29,18 +29,7 @@ ul {
 }
 
 .temperature h5 {
-  font-weight: 100;
+  font-weight: 500;
   text-align: right;
   font-size: 18px;
-}
-
-.temperature .unit button {
-  text-decoration: none;
-  color: pink;
-  font-weight: 700;
-  background: none !important;
-  border: none;
-  padding: 0 !important;
-  font-family: arial, sans-serif;
-  cursor: pointer;
 }
